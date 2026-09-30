@@ -1,0 +1,15 @@
+This is a test file for the secinspect practical.
+
+[secinspect] write() demonstration
+
+[secinspect] write() demonstration
+
+[secinspect] write() demonstration
+
+[secinspect] write() demonstration
+
+[secinspect] write() demonstration
+
+[secinspect] write() demonstration
+
+[secinspect] write() demonstration
